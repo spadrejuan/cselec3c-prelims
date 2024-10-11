@@ -1,0 +1,6 @@
+Name,Age,City,Income,Gender,Age_Category,Name_City
+JOHN,28,NEW YORK,50000.0,Male,Young,John from New York
+ANNA,22,PARIS,60000.0,Female,Young,Anna from Paris
+PETER,35,BERLIN,45000.0,Male,Adult,Peter from Berlin
+LINDA,32,LONDON,75000.0,Female,Adult,Linda from London
+JAMES,29,NEW YORK,57500.0,Male,Young,James from New York
